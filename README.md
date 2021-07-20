@@ -1,4 +1,4 @@
-# OCI-Web-Application-Firewall-WAF-Setup
+# OCI Web Application Firewall WAF Setup
 The document explain you How to setup OCI Web Application Firewall (WAF) with few use cases.
 
 
