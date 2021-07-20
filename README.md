@@ -115,7 +115,7 @@ For that just load the website and inspect the web page network tab to confirm t
 
 # **Yah !!! Now the WAF is successfully setup for your domain !!!!**
 So now we have tested the first use case mention in the top of this article. 
-# **Test Case 2: Restrict the access to OKIT which installed in the server with Oracle India VPN. OKIT URL is [https://okit.balasubramannyam.xyz](https://okit.balasubramannyam.xyz/)
+# Test Case 2: Restrict the access to OKIT which installed in the server with Oracle India VPN. OKIT URL is [https://okit.balasubramannyam.xyz](https://okit.balasubramannyam.xyz/)
 Add oracle India VPN IP ranges to the WAF. Click Menu → Identity & Security → IP Address Lists
 
 To achieve the above use case, navigate to the WAF policy, Menu → Identity & Security → policies  select **Access Control**
