@@ -51,7 +51,7 @@ Hostnames & Listeners
 #####  
 ###  
 ### Test Cases:
-### 1.Load the website "balasubramannyam[.xyz](https://balasubramannyam.xyz)" via WAF
+### 1.Load the website "[balasubramannyam.xyz](https://balasubramannyam.xyz)" via WAF
 ### 2.Restrict the access to OKIT which installed in the server with Oracle India VPN. OKIT URL is [https://okit.balasubramannyam.xyz](https://okit.balasubramannyam.xyz/)
 ### 3.Block the traffic to the the url [https://balasubramannyam.xyz/oci](https://okit.balasubramannyam.xyz/oci)
 ### 4.Redirect the the traffic from the url <https://balasubramannyam.xyz/bala> to the homepage [https://www.balasubramannyam.xyz/](https://www.balasubramannyam.xyz/)
