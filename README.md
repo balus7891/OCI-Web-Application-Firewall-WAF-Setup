@@ -246,7 +246,7 @@ WAF policy, Menu → Identity & Security → policies  select **Protection 
 ### ***Cheers ![(smile)](Screenshots/Aspose.Words.dd163e83-b5cf-4df6-ad5d-2612fc295afb.023.png)***
 
 
-####### Thanks you 
+### Thanks you 
 
 Bala Sunil
 balasubramannyam.sunil@oracle.com
