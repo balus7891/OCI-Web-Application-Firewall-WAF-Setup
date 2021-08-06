@@ -16,12 +16,12 @@ Zenedge is a leading, global provider of cloud-based, artificial intelligence-dr
 1. **Access Control**
 1. **Threat Intelligence**
 1. **Bot Management**
-## **We will explore the abilities and OCI WAF with the following setup.**
+### **We will explore the abilities and OCI WAF with the following setup.**
 ![](Screenshots/Aspose.Words.dd163e83-b5cf-4df6-ad5d-2612fc295afb.001.jpeg)
 
 
-## The above architecture is a very basic one which I'm going to demonstrate through the WAF setup.
-## The following are the pre-requisites which need to be setup the OCI WAF
+#### The above architecture is a very basic one which I'm going to demonstrate through the WAF setup.
+### The following are the pre-requisites which need to be setup the OCI WAF
 1. A public Domain and DNS, Here I used my domain "www.balasubramannyam.xyz". 
 1. A Public Endpoint running the WEB Application. Here I'm using a simple web page to demonstrate the use cases. The website is hosted on top of Oracle Linux Instance in a private subnet and the traffic is forwarding to the backend via a Public Load Balancer.
 1. SSL certificated for the Domain ([www.balasubramannyam.xyz).](http://www.balasubramannyam.xyz\).) In this case I have a wildcard SSL for my domain which procured from Letsencrypt.
