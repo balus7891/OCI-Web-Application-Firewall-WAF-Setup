@@ -238,7 +238,7 @@ WAF policy, Menu → Identity & Security → policies  select **Protection 
 ![](Screenshots/Aspose.Words.dd163e83-b5cf-4df6-ad5d-2612fc295afb.022.png)
 
 
-#### **So that's it from my side. I hope you got an idea or an overview about OCI WAF and how effectively you can use WAF in your projects.
+#### **So that's it from my side. I hope you got an idea or an overview about OCI WAF and how effectively you can use WAF in your projects.**
 #### I have not mentioned all of the functionalities of WAF like Caching Rules and Java Script challenge due to the limitations with my test setup. But, yes I tried my best to showcase the WAF concepts.**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##
