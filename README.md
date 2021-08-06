@@ -239,7 +239,7 @@ WAF policy, Menu → Identity & Security → policies  select **Protection 
 
 
 #### **So that's it from my side. I hope you got an idea or an overview about OCI WAF and how effectively you can use WAF in your projects.**
-#### I have not mentioned all of the functionalities of WAF like Caching Rules and Java Script challenge due to the limitations with my test setup. But, yes I tried my best to showcase the WAF concepts.**
+#### I have not mentioned all of the functionalities of WAF like Caching Rules and Java Script challenge due to the limitations with my test setup. But, yes I tried my best to showcase the WAF concepts.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##
 ### ***If you have any doubts or clarification, Feel free to contact me anytime, I'm open for that always !!! Suggestions and feedbacks are welcome*** 
